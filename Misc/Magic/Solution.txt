@@ -1,0 +1,7 @@
+Level : easy (repeated)
+Quality : 2/5
+Solution :
+edit file header 
+FF D8 FF E0
+ 	
+flag : PlayGroundsCTF{wh47_4r3_m461c_numb3r5}

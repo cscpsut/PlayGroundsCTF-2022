@@ -1,0 +1,6 @@
+ Level : very easy
+ Quality : 0.5/5
+ 
+ Solution:
+ 
+ Exiftool
