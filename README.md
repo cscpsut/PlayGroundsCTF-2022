@@ -7,6 +7,20 @@
 <img align="right" src="https://user-images.githubusercontent.com/35840617/171266140-a7f88018-c359-4ad1-955d-f96d54bfbdc1.png" width="300">
 <br/>
 
+
+## Pentesting
+- **5ud0 m3 (user):**
+
+    Nmap tcp scan shows 3 services on 3 ports:
+    ```
+    21      FTP     vsftpd 3.0.3
+    22      SSH   
+    80      HTTP    NGINX 1.18.0 with PHP7.4
+    ```
+    A shell can be obtained by uploading a PHP reverse shell using ftp (in /var/www/html/contact/) and sending a request to `http://IP/contact/[your_shell].php`
+    <br/><br/>
+
+
 ## Misc
 - **Git rekt:**
 
