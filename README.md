@@ -156,7 +156,7 @@ VirtualBox .ova file of the machine: https://drive.google.com/file/d/1XHEMLLrued
     
     level: easy to medium
     
-    the email constains a X-Originating-IP header which is used to open a "malicious" website then you are asked to check if its malicious without opening it using a website called virtustotal https://www.virustotal.com/ and the flag will be in the community section<br/><br/> 
+    the email contains an X-Originating-IP header which is used to open a "malicious" website then you are asked to check if its malicious without opening it, using a website called virtustotal https://www.virustotal.com/ and the flag will be in the community section<br/><br/> 
  - **1-1 characters**
 
     Quality: 2/5
@@ -172,4 +172,4 @@ VirtualBox .ova file of the machine: https://drive.google.com/file/d/1XHEMLLrued
     
     level: medium
 
-    An executable file which asks for an input which is the key, you can dissasemble the file using ghidra or cutter and find the flag then enter it to get the flag<br/><br/>
+    An executable file which asks for an input which is the key, you can dissasemble the file using ghidra or cutter and find the key then enter it to get the flag<br/><br/>
