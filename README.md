@@ -164,4 +164,12 @@ VirtualBox .ova file of the machine: https://drive.google.com/file/d/1XHEMLLrued
     level: easy to medium
     
     a pastebin link with a flag encoded in zero width character format, using an online converter will give you the flag <br/><br/>  
+    ## Reverse Engineering
+
+- **Tracer**
+
+    Quality: 3/5
     
+    level: medium
+
+    An executable file which asks for an input which is the key, you can dissasemble the file using ghidra or cutter and find the flag then enter it to get the flag<br/><br/>
