@@ -143,5 +143,11 @@ VirtualBox .ova file of the machine: https://drive.google.com/file/d/1XHEMLLrued
     level: easy to medium
     
      the file is a rubberducky encoded payload and decode it using https://ducktoolkit.com<br/><br/>  
+ - **pdfscripting**
+
+    Quality: 2.5/5
     
+    level: easy to medium
+    
+     the pdf includes an injected javascript code which you will compile and it will give you the flag<br/><br/>  
 
