@@ -59,7 +59,7 @@ VirtualBox .ova file of the machine: https://drive.google.com/file/d/1XHEMLLrued
     
     level: easy (repeated)
 
-    JSFuck. Could be identified with cipher identifier tools<br/><br/>
+    brainfuck. Could be identified with cipher identifier tools<br/><br/>
     
 - **RubberDucky:**
 
