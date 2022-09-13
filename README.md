@@ -20,7 +20,7 @@ VirtualBox .ova file of the machine: https://drive.google.com/file/d/1XHEMLLrued
     22      SSH   
     80      HTTP    NGINX 1.18.0 with PHP7.4
     ```
-    A shell can be obtained by uploading a PHP reverse shell using ftp (in /var/www/html/contact/) and sending a request to `http://IP/contact/[your_shell].php`
+    A shell can be obtained by uploading a PHP reverse shell using ftp anonymous login (in /var/www/html/contact/) and sending a request to `http://IP/contact/[your_shell].php`
     <br/><br/>
 
 
